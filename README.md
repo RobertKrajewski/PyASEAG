@@ -1,7 +1,7 @@
-#PyASEAG
+# PyASEAG
 Python wrapper for ASEAG live monitor api (URA) including a Mattermost integration based on Flask.
 
-##Features:
+## Features:
 * Simple to use wrapper for most important ASEAG api functions
 * Fuzzy matching of queried bus stop name with all available bus stops
 * Predicted arrivals of buses are formatted as table
